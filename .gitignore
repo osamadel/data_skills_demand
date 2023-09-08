@@ -1,0 +1,6 @@
+*.ipynb
+data/full_jobs.csv
+data/ds_cleaned.csv
+data/job_details.csv
+data/jobs_clean.csv
+data/jobs.csv
